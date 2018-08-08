@@ -1,0 +1,10 @@
+C:\Users\Rizal\Documents\Visual Studio 2008\Projects\SKKNI\SKKNI\SKKNI\bin\Debug\SKKNI.exe
+C:\Users\Rizal\Documents\Visual Studio 2008\Projects\SKKNI\SKKNI\SKKNI\bin\Debug\SKKNI.pdb
+C:\Users\Rizal\Documents\Visual Studio 2008\Projects\SKKNI\SKKNI\SKKNI\bin\Debug\SKKNI.xml
+C:\Users\Rizal\Documents\Visual Studio 2008\Projects\SKKNI\SKKNI\SKKNI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rizal\Documents\Visual Studio 2008\Projects\SKKNI\SKKNI\SKKNI\obj\Debug\SKKNI.Form1.resources
+C:\Users\Rizal\Documents\Visual Studio 2008\Projects\SKKNI\SKKNI\SKKNI\obj\Debug\SKKNI.Resources.resources
+C:\Users\Rizal\Documents\Visual Studio 2008\Projects\SKKNI\SKKNI\SKKNI\obj\Debug\SKKNI.vbproj.GenerateResource.Cache
+C:\Users\Rizal\Documents\Visual Studio 2008\Projects\SKKNI\SKKNI\SKKNI\obj\Debug\SKKNI.exe
+C:\Users\Rizal\Documents\Visual Studio 2008\Projects\SKKNI\SKKNI\SKKNI\obj\Debug\SKKNI.xml
+C:\Users\Rizal\Documents\Visual Studio 2008\Projects\SKKNI\SKKNI\SKKNI\obj\Debug\SKKNI.pdb
